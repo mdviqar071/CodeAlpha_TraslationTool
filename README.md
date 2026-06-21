@@ -1,4 +1,4 @@
-# Tongue & Type — Language Translation Tool
+# Translation Tool
 
 A simple, clean web app that translates text between 20+ languages in real time. Built as **Task 1** for the **CodeAlpha Artificial Intelligence Internship**.
 
